@@ -1,5 +1,4 @@
- <style>
-      body {
+body {
   background-image: url("https://i.pinimg.com/736x/c1/0f/6f/c10f6fb3dcce1f79657c387c6e0f9223.jpg");
 }
 h1{
@@ -40,5 +39,5 @@ tr:nth-child(even) {
 p{ background-color: #9DA9A0;
   color: black;}
 
-    </style>
+
       
